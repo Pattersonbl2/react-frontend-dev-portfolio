@@ -1,48 +1,48 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hola",
+      "description": "👋 Soy Brandon Patterson. Soy ingeniero de software en Mozilla. Actualmente, desarrollo y soporte el producto Hubs. He estado trabajando en software durante 2 años y en TI durante 6 años. Estoy enfocado principalmente en el trabajo SRE/Devops. También estoy certificado en la nube",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Acerca de mí",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "laboratorio casero",
+        "startDate": "2021",
+        "description": "Encendí una computadora lenvo más antigua e instalé proxmox en ella. Ahora tiene 3 máquinas virtuales de ubuntu que construyen mi instalación de k3 rancher.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+           "images/portfolio/rancher/homelab.jpeg",
+           "images/portfolio/rancher/rancher.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+          "class": "devicon-k3s-original",
+            "name": "Rancher"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-networkx-original",
+            "name": "Networking"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-ansible-plain",
+            "name": "Anisble"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "centros",
+        "startDate": "2021",
+        "description": "He estado trabajando en este proyecto de código abierto en Mozilla durante los últimos 2 años como ingeniero de software junior.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/hubs/hubs-logo.jpeg",
+          "images/portfolio/hubs/hubs.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/mozilla/hubs",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,61 +55,67 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Ark31.info",
+        "startDate": "2021",
+        "description": "Mi dominio personal con el que ejecuto mi sitio web y servicio de correo electrónico en AWS",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/website/blackcoder.jpg",
+          "images/portfolio/website/codememe.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/pattersonbl2",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "ddevicon-amazonwebservices-original",
+            "name": "Aws"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-go-original-wordmark",
+            "name": "Golang"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Mozilla",
+        "title": "Software Engieer 2",
+        "years": "07.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Aws" ,
+          "Gcp",
+          "Git",
+          "React",
+          "Github Action"
+
+                
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Linux",
+          "API",
+          "Docker",
+          "Kubernetes",
+          "CloudFromation",
+          "GKE"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Audacious inquiry",
+        "title": "Sysops Admin",
+        "years": "03.2020 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          "IAM Management"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Vmare",
+          "Office 365",
+          "AWS",
+          "SSl certificate",
+          "Azure AD",
+          "Terraform"
         ]
       }
     ]

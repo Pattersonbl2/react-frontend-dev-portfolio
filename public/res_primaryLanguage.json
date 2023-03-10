@@ -56,7 +56,7 @@
       },
       {
         "title": "Ark31.info",
-        "startDate": "20202",
+        "startDate": "2022",
         "description": "My personal domain that i run my website and email service with in Aws",
         "images": [
           "images/portfolio/website/blackcoder.jpg",
@@ -65,16 +65,16 @@
         "url": "Ark31.info",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "ddevicon-amazonwebservices-original",
+            "name": "Aws"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-go-original-wordmark",
+            "name": "Golang"
           }
         ]
       }
